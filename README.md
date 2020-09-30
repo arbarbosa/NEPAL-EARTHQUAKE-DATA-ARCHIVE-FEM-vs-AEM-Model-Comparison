@@ -3,7 +3,7 @@ This repository contains a PDF report (https://github.com/arbarbosa/NEPAL-EARTHQ
 
 This repository is part of the following publication https://doi.org/10.1016/j.engstruct.2019.109950. 
 
-## Soti, R., Abdulrahman, L., Barbosa, A. R., Wood, R. L., Mohammadi, M. E., & Olsen, M. J. (2020). Case study: Post-earthquake model updating of a heritage pagoda masonry temple using AEM and FEM. Engineering Structures, 206, 109950.
+### Soti, R., Abdulrahman, L., Barbosa, A. R., Wood, R. L., Mohammadi, M. E., & Olsen, M. J. (2020). Case study: Post-earthquake model updating of a heritage pagoda masonry temple using AEM and FEM. Engineering Structures, 206, 109950.
 
 Other information, including the FEM and AEM models described in the journal paper and PDF report can be found in the following data archive:
 
